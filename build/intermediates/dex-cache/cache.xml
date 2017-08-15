@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\88eb1aa2f7898c26b8c9757007e27ef1fe2b01aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_f2594e99c51e981c3815d174c4e6fa71fde01535.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\2094202b0ec48e72940427fb15d9eecc3d9f3ddd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_6b67bf759ca89e0abc001f5748cea5eec1d608a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\8de216dda9cfafd1797854c0bc5764d3f2a0076f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_d00cb7ac6649ff80a8c6d5559296250b24c8620e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\5e8d94a5feab273a9c3c6a69d182844fca5385bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_ebf57e638c0edb71b3bb40fe40d80d63e3374a9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\475c4567d1329790ab776dee610c47e750c2ee99\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_2cd21472a580408bd1a0b107b8062438bf8af3d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\b3bae162eeb36546ad6ba85e4b5db29ae83333d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_afae9e90314be443d82558d44e1820d6abf7360b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\b52f6b946dce66f0d2b55b63f74e3e351891b9e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_d48b2ca8df916bf0e329832bd7c888a01bf175bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\a48ec644fc24c7144e272838fa813da8f4806237\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_6420fbf183a200fae8bb9e4c0509f19407ddc9f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\eb6251097b0ff1fa94721d732429fc1d61526ec0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_771042a00ecfcf333377b2847ac7066bdcae9e11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\1d8879dbf80e308173849b1813abda5d4d895e26\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_bd79811e2776f23b8ebaf9cceee89059871ca250.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\dfcf0feffa1fc061b66c9655ec7774406c5c1143\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_f726b032772eeb07d5439e82c9cb125cb49e8f97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\1d7bb210ab002a971604bf2f0b02aa4b1dd3cd8e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_63c1cea0769d4b339a8e7d7bda91c3d2d2187fb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\c715a56f0dd1976b120bec4d3c40a3a609043760\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_92cae30172188629f2dffcd8778eab10b092e55a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\4068d0d125e92c265e25661c6f3b1737751cd745\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_4ac1ffc70be92400f72d79247960696a4ab31247.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\1f05fa820977b72669f4e610c99f1f83c3fff9d8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_ce698ab817d7481b6b97f17be1184f5bf224ebde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\809f481c8d6284af29e5c26c3387f0df4602d742\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_9f123ca857210415db584b23ce19e2920006b098.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\8d9d5c8c8d6e693717f4808fc03cca43ad0873ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69472e334350cafbf442776da05c9a04955252fb">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_8a7317863ced34837e30cb0580f302367db36ac3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\bbb9192cd01745efb3abe90b5543a9a3c9c7f3a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_c2f18c0cbeae640c94de0598ac9e6f065e78245d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\f7ac71e74811ab955df6324dfe085ef7bf75d133\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_3799f59a0d867c3d98de163d9ccabd251b3e5f27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\c95ede4bd34ff9042ccd05dcf7e5d60d870dca83\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_d8e7811485f3cfbb3fa99232a36f9e0f372e99c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\098ef8c14ffbaf86b1443ffafb13d823dae387df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_dd0c45e143c07891460daa363f4b5a9535cd2c8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\32264a851c6c59fcaa2512de4a3888c5b3609255\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_e4dede8781898d3ad73c54a77c7a5c2ba07fe490.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\859453e777efa673bf30400db7f86cf7d03c09fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_b2893db4dbf485c93230e710265b7494e056c509.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\8bffb259e14455835e8743723f3556a31752bec3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_6d340bb2100e67b79a92e34551c0654c0d6be52f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\be0b8f69972dbe4e1838f7da27979f8f6832d0af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_d78563752534830b18d4ad9425161e102d3b14f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\5e227fdb000d53f3114b5cd047ccc4a16099c27e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_a1c1a96fc47a589721b768320d78cc762e5178cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\a48ec644fc24c7144e272838fa813da8f4806237\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_f5fee109d6eaec02b7a38eabefdc241531709bbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\b14474881e982d5e4a56befe0a277533eb7277f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_5c921d00b06964986dd0ecd01eb6fc252ad4f13a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\868517ef9f3343531263c00a99b7834088adff64\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_a9c1e508e9b4cef41a52b06c9b6bf04c85838627.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\3fce52fd1346607b8fb0019588d04d6b23482ecb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_56a3bac3a7e46ef1a22a54a90a35be5144f19240.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\59428c73aa9316561fd2615ceb4de4f6fab7b79c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_b42780e7506c8e1a89dd325ff22c67a5257dc24a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\5c7cfaaae809f275a04aa02dfd6da8a85f51a86e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_b3795bf12b067a21eaeaf1afc2874cde85106594.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\fcfae58df782510dd857469b063764899e1e9436\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_3cecee9a2e19bbfacd536cab0bbf147088c96f51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\82b2c7617460908b314aa9f7098a64befdf59743\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_52efdfa6eb76aba052c301c1b5fd1fd6d45a834c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\260c00b1549e6c6e891f8a91e508354f460416eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_313021d03f646464d69585165e92e2df99a8e8fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\d3cc85981c2757bf0e09c3c88ae5b58c28254650\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_5501b552b30e3fe19fd37759d7f9e8409d08cf6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\e8701f2fa6c5b3567aa9145a9f02859e7489bbde\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_f2351b28bc0e48401186901ef2816fb93aa41e9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\d8f0787fee1439b1976009860bd6c17e78540f74\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_2ed1bcc14a1f4d6e966f81a63903e8a06f7c8604.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\f8deee8c07aaf0c944e85d237117ce4d39e5b310\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_50b8b1e6634aebadf73838ad3dac301f37c84483.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\b99d28238ef9171a683a2b0e19893f9ca6f159a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_4143ce0433f5bc89904409f2dd3ee04038d30b6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\c8c60b63f74f7782dc6edf77250f4586df8b13ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_799f0adda9c8105871e72596e2b545de4ecda2f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\c63c0d62b95cdebc431646173e46bbab31094e1b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_bea62aff2467b75016f134726a4b7665f8beda83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\276753757dc16e180003371a7c69d938d08bc40d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_af5cc003cd6a3495cfe64f69694ceb208734d77f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\289b4e277f30113295930699957e1195bc80c07f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_4825bdb9410a11dcbfd27c1fad0fdad788719753.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\0bcd79666fe9d20e8e3cec990296606633a02771\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_4f711b652438e896cf88ae8547a6b951b253d789.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\2d5b11463becf40486653b0a20c43db12488394f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_3be3166bc1c2711148d53edd2b98ad1df44ade24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Installer\Android\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_342b6a198a2c274517e5df6e49ab82d01615ba0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\fe58ad9ef4fa39be15d73b9b37d03865c54f89d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_51aa091d29c3c76f72dcaba58e6cb090c535cb1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\a8f9559e30aeabd08dd68617915ada2f2fc12465\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_b79ac3881ca9ac9e07b0f3ad3c4a4c49e6a3e3be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\b52f6b946dce66f0d2b55b63f74e3e351891b9e4\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_724be0cc7e7eb988e9da5d523b6226e9ed3c6a35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\3e65276ffc8b840ea330ac895090d1558b623ad7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_73e4e4eb422353e112e73c8d00ca5790d7ea24c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\63d8426ecdaade4d183cc5a5c97279f06b93f0a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_b24a72ecb7e0d4b03cebf41d0c2a37183368a064.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsusPc\.android\build-cache\6211335c189b90d91fe61a51f6d828b161f78e1e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
+        <dex dex="D:\Android\BootcampLocator-master\app\build\intermediates\pre-dexed\debug\classes_85766300d575d0a66cf98b40bc2834652addf4fe.jar" />
+    </item>
+
+</items>
